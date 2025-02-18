@@ -32,5 +32,6 @@ I'm on a journey to become a proficient developer, exploring new tools and build
 - 📧 Email: lexycheat@gmail.com
 - 💼 LinkedIn: LATER
 - 🌐 Portfolio: LATER
-Thanks for stopping by! 😊
+
+#Thanks for view!!!
 
