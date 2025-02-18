@@ -1,6 +1,6 @@
 # 👋 Hi there, im LainForYou
 
-![Hi there](https://tenor.com/ru/view/serial-experiments-lain-disappear-gif-25875158)
+![Hi there](https://tenor.com/unNKXwS6lDt.gif)
 
 ## 📺 My Life...
 
