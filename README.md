@@ -1,6 +1,6 @@
 # 👋 Hi there, im LainForYou
 
-![Hi there] (https://tenor.com/view/lain-lain-ps1-gif-16970614288742356917)
+![Hi there](https://tenor.com/view/lain-lain-ps1-gif-16970614288742356917)
 
 ## 📺 My Life...
 
