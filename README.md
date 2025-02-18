@@ -30,8 +30,8 @@ I'm on a journey to become a proficient developer, exploring new tools and build
 ## 📫 Contact Me
 
 - 📧 Email: lexycheat@gmail.com
-- 💼 LinkedIn: LATER
-- 🌐 Portfolio: LATER
+- 👾 Discord: isntmefrlollaim
+- 🌐 Telegram: @wywhereILain
 
 ## Thanks for view!!!
 
