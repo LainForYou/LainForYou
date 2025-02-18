@@ -1,6 +1,6 @@
 # 👋 Hi there, im LainForYou
 
-![Hi there] (<div class="tenor-gif-embed" data-postid="16970614288742356917" data-share-method="host" data-aspect-ratio="0.914894" data-width="100%"><a href="https://tenor.com/view/lain-lain-ps1-gif-16970614288742356917">Lain Lain Ps1 GIF</a>from <a href="https://tenor.com/search/lain-gifs">Lain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![Hi there] (https://tenor.com/view/lain-lain-ps1-gif-16970614288742356917)
 
 ## 📺 My Life...
 
