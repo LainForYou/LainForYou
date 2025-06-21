@@ -3,9 +3,7 @@
 ![Lain](https://github.com/LainForYou/gif/blob/main/lain-lain-ps1%20(1).gif)
 
 ## 📺 About Me
-- Using :
---- ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
---- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+- Using :![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) and ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 - 🎓 Student, learning software development
 - 💻 Specializing in C# with Unity, also experienced with JavaScript and React
 - 🌱 Continuously growing and learning new technologies
