@@ -1,6 +1,6 @@
 ![Lain](https://github.com/LainForYou/gif/blob/main/lain-serial-experiments-lain%20(2).gif)
 
-## ----------------------
+## 
 
 ![Arch](https://github.com/LainForYou/gif/blob/main/arch-i-use-arch-btw.gif)
 
@@ -20,9 +20,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LainForYou&color=blueviolet&style=flat-square)
 
-## ----------------------
+## 
 
 - 👾 Discord: LainAlive
 - 🌐 Telegram: t.me/LainAlive
-
----
