@@ -43,7 +43,7 @@ I'm on a journey to become a proficient developer, exploring new tools and build
 ## 📫 Contact Me
 
 - 👾 Discord: isntmefrlollaim
-- 🌐 Telegram: t.me/LainOKCOMPUTER
+- 🌐 Telegram: t.me/LainAlive
 
 ---
 
