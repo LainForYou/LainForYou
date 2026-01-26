@@ -17,5 +17,5 @@
 
 ## 
 
-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) : LainAlive
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) : t.me/KOCMU4ECKAYAPULb
+- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) : PACCBETKOCMOCA
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) : t.me/PACCBETKOCMOCA
