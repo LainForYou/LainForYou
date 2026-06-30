@@ -2,7 +2,7 @@
   <img src="https://github.com/LainForYou/gif/blob/main/lain-serial-experiments-lain%20(2).gif" alt="Lain" />
 </div>
 
-<h1 align="center"> LainForYou </h1>
+<h1 align="center"> Glass Princess </h1>
 
 ###
 
